@@ -111,7 +111,7 @@
 - AWS Cloud Practitioner (Preparing)
 - AWS Solutions Architect (Preparing)
 
-## 🌟 Learning Goals 2024
+## 🌟 Learning Goals 2025
 
 - [ ] Complete ALX Full Stack Software Engineering program
 - [ ] Complete ALX Data Science & Engineering program  
