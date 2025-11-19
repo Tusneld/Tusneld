@@ -41,7 +41,7 @@
 
 **AWS Cloud:** `EC2` `S3` `Lambda` `RDS` `DynamoDB` `CloudFormation` `IAM` `VPC` `RedShift` `Aurora`
 
-**Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter`
+**Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter` `Power BI` `Excel`
 
 ## 📈 Projects
 
