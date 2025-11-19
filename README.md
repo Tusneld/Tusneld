@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tusnelde Endjala
 
-> *Full Stack Software Engineering Student | MERN Stack | AWS Cloud | Data Engineering*
+> *Full Stack Software Engineering Student | MERN Stack | AWS Cloud | Data Engineering | Data Analyst*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/TusneldeE)
@@ -36,6 +36,7 @@
 **Backend:** `Node.js` `Express.js` `REST APIs` `GraphQL` `JWT` `Socket.io` `Python`
 
 **Databases:** `MongoDB` `MySQL` `PostgreSQL` `MS SQL Server` 
+
 **Data Engineering:** `Python` `Pandas` `PySpark` `Apache Airflow` `ETL Pipelines` `SQL`
 
 **AWS Cloud:** `EC2` `S3` `Lambda` `RDS` `DynamoDB` `CloudFormation` `IAM` `VPC` `RedShift` `Aurora`
