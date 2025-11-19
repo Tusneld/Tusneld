@@ -9,8 +9,8 @@
 
 ## 🎯 Currently Learning
 
-**ALX Full Stack Software Engineering - MERN Stack**
-- MongoDB, Express.js, React, Node.js
+**ALX Full Stack Software Engineering**
+- MongoDB, Express.js, React, Node.js, Python
 - JavaScript & TypeScript
 - RESTful APIs & Microservices
 - System design & architecture
@@ -31,15 +31,14 @@
 
 **MERN Stack:** `MongoDB` `Express.js` `React` `Node.js` `JavaScript` `TypeScript`
 
-**Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Redux`
+**Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Redux`
 
-**Backend:** `Node.js` `Express.js` `REST APIs` `GraphQL` `JWT` `Socket.io`
+**Backend:** `Node.js` `Express.js` `REST APIs` `GraphQL` `JWT` `Socket.io` `Python`
 
-**Databases:** `MongoDB` `MySQL` `PostgreSQL` `RedShift` `DynamoDB` `Aurora`
-
+**Databases:** `MongoDB` `MySQL` `PostgreSQL` `MS SQL Server` 
 **Data Engineering:** `Python` `Pandas` `PySpark` `Apache Airflow` `ETL Pipelines` `SQL`
 
-**AWS Cloud:** `EC2` `S3` `Lambda` `RDS` `DynamoDB` `CloudFormation` `IAM` `VPC`
+**AWS Cloud:** `EC2` `S3` `Lambda` `RDS` `DynamoDB` `CloudFormation` `IAM` `VPC` `RedShift` `Aurora`
 
 **Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter`
 
