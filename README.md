@@ -35,7 +35,7 @@
 
 **Backend:** `Node.js` `Express.js` `REST APIs` `GraphQL` `JWT` `Socket.io`
 
-**Databases:** `MongoDB` `MySQL` `PostgreSQL` `Redis` `DynamoDB`
+**Databases:** `MongoDB` `MySQL` `PostgreSQL` `RedShift` `DynamoDB` `Aurora`
 
 **Data Engineering:** `Python` `Pandas` `PySpark` `Apache Airflow` `ETL Pipelines` `SQL`
 
