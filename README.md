@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tusnelde Endjala
 
-> *Full Stack Software Engineering Student | MERN Stack | AWS Cloud | Data Engineering | Data Analyst*
+> *Full-Stack Software Engineer| MERN Stack | AWS Cloud | Data Engineering | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/TusneldeE)
@@ -11,7 +11,7 @@
 
 **ALX Full Stack Software Engineering**
 - MongoDB, Express.js, React, Node.js, Python
-- JavaScript & TypeScript
+- JavaScript 
 - RESTful APIs & Microservices
 - System design & architecture
 
@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 
-**MERN Stack:** `MongoDB` `Express.js` `React` `Node.js` `JavaScript` `TypeScript`
+**MERN Stack:** `MongoDB` `Express.js` `React` `Node.js` `JavaScript` 
 
 **Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Redux`
 
@@ -108,8 +108,8 @@
 - AWS Cloud Computing (In Progress)
 
 **AWS Certification Path:**
-- AWS Cloud Practitioner (Preparing)
-- AWS Solutions Architect (Preparing)
+- AWS Cloud Practitioner (In Progress)
+- AWS Solutions Architect (Coming soon)
 
 ## 🌟 Learning Goals 2025
 
