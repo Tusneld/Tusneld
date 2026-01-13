@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tusnelde Endjala
 
-> *Full-Stack Software Engineer| MERN Stack | AWS Cloud | Data Engineering | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
+> *Full-Stack Software Engineer | Python | React | Node.js | Data Engineering | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/TusneldeE)
@@ -10,10 +10,8 @@
 ## 🎯 Currently Learning
 
 **ALX Full Stack Software Engineering**
-- MongoDB, Express.js, React, Node.js, Python
-- JavaScript 
-- RESTful APIs & Microservices
-- System design & architecture
+- Python, JavaScript, React, Node.js, Tailwind CSS
+- RESTful APIs 
 
 **ALX Data Science & Engineering**
 - Machine learning fundamentals
@@ -21,41 +19,25 @@
 - Data engineering pipelines
 - Statistical modeling
 
-**AWS Cloud Computing**
-- AWS Cloud Practitioner
-- AWS Solutions Architect
-- Cloud infrastructure & services
-- Serverless architecture
-
 ## 🛠️ Tech Stack
 
-**MERN Stack:** `MongoDB` `Express.js` `React` `Node.js` `JavaScript` 
+**Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Zustand` `JavaScript`
 
-**Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Redux`
+**Backend:** `Python` `Node.js` `REST APIs`  `JWT` 
 
-**Backend:** `Node.js` `Express.js` `REST APIs` `GraphQL` `JWT` `Socket.io` `Python`
-
-**Databases:** `MongoDB` `MySQL` `PostgreSQL` `MS SQL Server` 
+**Databases:** `MySQL` `PostgreSQL` `MS SQL Server` 
 
 **Data Engineering:** `Python` `Pandas` `PySpark` `Apache Airflow` `ETL Pipelines` `SQL`
-
-**AWS Cloud:** `EC2` `S3` `Lambda` `RDS` `DynamoDB` `CloudFormation` `IAM` `VPC` `RedShift` `Aurora`
 
 **Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter` `Power BI` `Excel`
 
 ## 📈 Projects
 
-### 🎓 MERN E-Learning Platform
+### 🎓 E-Learning Platform
 > Full-stack educational platform with real-time features
 
-**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Socket.io` `JWT`
+**Tech:**  `React` `Node.js` `Socket.io` `JWT`
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github)](https://github.com/Tusneld/mern-elearning-platform)
-
-### ☁️ AWS Serverless API
-> Cloud-native REST API with serverless architecture
-
-**Tech:** `AWS Lambda` `API Gateway` `DynamoDB` `CloudFormation` `Node.js`
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github)](https://github.com/Tusneld/aws-serverless-api)
 
 ### 📊 Data Pipeline & Analytics
 > ETL pipeline for data processing and visualization
@@ -63,11 +45,6 @@
 **Tech:** `Python` `Pandas` `Apache Airflow` `PostgreSQL` `React` `Chart.js`
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github)](https://github.com/Tusneld/data-pipeline-analytics)
 
-### 🔐 Cloud Authentication System
-> Secure auth system deployed on AWS infrastructure
-
-**Tech:** `React` `Node.js` `AWS Cognito` `Lambda` `API Gateway` `DynamoDB`
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github)](https://github.com/Tusneld/cloud-auth-system)
 
 ## 🌍 Sustainable Development Goals Focus
 
@@ -103,24 +80,18 @@
 ## 🎓 Education & Certifications Path
 
 **ALX Africa Programs:**
-- Full Stack Software Engineering - MERN Stack (In Progress)
+- Full Stack Software Engineering (In Progress)
 - Data Science & Engineering (In Progress)
-- AWS Cloud Computing (In Progress)
 
-**AWS Certification Path:**
-- AWS Cloud Practitioner (In Progress)
-- AWS Solutions Architect (Coming soon)
 
-## 🌟 Learning Goals 2025
+## 🌟 Learning Goals 2026
 
 - [ ] Complete ALX Full Stack Software Engineering program
 - [ ] Complete ALX Data Science & Engineering program  
-- [ ] Build 5+ MERN stack projects with AWS deployment
+- [ ] Build 5+ full-stack projects using Python and React
 - [ ] Master data engineering concepts and ETL pipelines
-- [ ] Prepare for AWS Cloud Practitioner certification
-- [ ] Prepare for AWS Solutions Architect certification
 - [ ] Contribute to open source projects
-- [ ] Build cloud-native applications
+- [ ] Build high-performance web applications
 
 ## 📫 Connect With Me
 
@@ -135,7 +106,7 @@
 ---
 
 <p align="center">
-  <i>🚀 Building cloud-native solutions with MERN stack and AWS</i>
+  <i>🚀 Building solutions with Python, React, Tailwind CSS, Zustand and JavaScript</i>
 </p>
 
 <p align="center">
