@@ -21,30 +21,15 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Zustand` `JavaScript`
+**Frontend:** `React` `HTML5` `CSS3` `Tailwind CSS` `Zustand` `JavaScript` `TypeScript`
 
 **Backend:** `Python` `Node.js` `REST APIs`  `JWT` 
 
-**Databases:** `MySQL` `PostgreSQL` `MS SQL Server` 
+**Databases:** `MySQL` `PostgreSQL` `MS SQL Server` `MongoDB`
 
 **Data Engineering:** `Python` `Pandas` `PySpark` `Apache Airflow` `ETL Pipelines` `SQL`
 
 **Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter` `Power BI` `Excel`
-
-## 📈 Projects
-
-### 🎓 E-Learning Platform
-> Full-stack educational platform with real-time features
-
-**Tech:**  `React` `Node.js` `Socket.io` `JWT`
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github)](https://github.com/Tusneld/mern-elearning-platform)
-
-### 📊 Data Pipeline & Analytics
-> ETL pipeline for data processing and visualization
-
-**Tech:** `Python` `Pandas` `Apache Airflow` `PostgreSQL` `React` `Chart.js`
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github)](https://github.com/Tusneld/data-pipeline-analytics)
-
 
 ## 🌍 Sustainable Development Goals Focus
 
@@ -88,7 +73,7 @@
 
 - [ ] Complete ALX Full Stack Software Engineering program
 - [ ] Complete ALX Data Science & Engineering program  
-- [ ] Build 5+ full-stack projects using Python and React
+- [ ] Build 5+ full-stack projects using Python and React or MERN
 - [ ] Master data engineering concepts and ETL pipelines
 - [ ] Contribute to open source projects
 - [ ] Build high-performance web applications
@@ -106,7 +91,7 @@
 ---
 
 <p align="center">
-  <i>🚀 Building solutions with Python, React, Tailwind CSS, Zustand and JavaScript</i>
+  <i>🚀 Building solutions with Python, React, TypeScript, Tailwind CSS, Zustand and JavaScript</i>
 </p>
 
 <p align="center">
