@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tusnelde Endjala
+# 👋 Hello, I'm Tusnelde Endjalaggit 
 
 > *Full-Stack Software Engineer | Python | React | Node.js | Data Engineering | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
 
@@ -10,7 +10,7 @@
 ## 🎯 Currently Learning
 
 **ALX Full Stack Software Engineering**
-- Python, JavaScript, React, Node.js, Tailwind CSS
+- Python, JavaScript, React, Node.js, Tailwind CSS, TypeScript
 - RESTful APIs 
 
 **ALX Data Science & Engineering**
