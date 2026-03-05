@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tusnelde Endjalaggit 
 
-> *Full-Stack Software Engineer | Python | React | Node.js | Data Engineering | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
+> *Full-Stack Software Engineering | Python | React | Node.js | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/TusneldeE)
@@ -11,13 +11,16 @@
 
 **ALX Full Stack Software Engineering**
 - Python, JavaScript, React, Node.js, Tailwind CSS, TypeScript
-- RESTful APIs 
+- RESTful APIs
+- django
 
 **ALX Data Science & Engineering**
 - Machine learning fundamentals
 - Data analysis & visualization
 - Data engineering pipelines
 - Statistical modeling
+- Python
+- Excel
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +30,6 @@
 
 **Databases:** `MySQL` `PostgreSQL` `MS SQL Server` `MongoDB`
 
-**Data Engineering:** `Python` `Pandas` `PySpark` `Apache Airflow` `ETL Pipelines` `SQL`
 
 **Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter` `Power BI` `Excel`
 
