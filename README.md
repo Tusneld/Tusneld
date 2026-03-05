@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tusnelde Endjalaggit 
+# 👋 Hello, I'm Tusnelde 
 
 > *Full-Stack Software Engineering | Python | React | Node.js | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
 
