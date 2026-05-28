@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tusnelde 
 
-> *Full-Stack Software Engineering | Python | React | Node.js | Data Analyst | Product Owner | Product Designer | AI-Project Manager*
+> *Full-Stack Software Engineering | Python | React |MERN | Data Analyst | Product Owner | Aspiring ML & Data Engineer | Product Designer | AI-Project Manager*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/TusneldeE)
@@ -31,7 +31,7 @@
 **Databases:** `MySQL` `PostgreSQL` `MS SQL Server` `MongoDB`
 
 
-**Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter` `Power BI` `Excel`
+**Tools:** `Git` `Docker` `Linux` `VS Code` `Postman` `Jupyter` `Power BI` `Excel` `Docker`
 
 ## 🌍 Sustainable Development Goals Focus
 
