@@ -17,7 +17,10 @@
 - Python
 - Excel
 
+---  
+
 ### :hammer_and_wrench: Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="50"/>&nbsp;
@@ -30,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensoreFlow" **alt="TensoreFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
@@ -38,29 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" **alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>&nbsp;
 </div>
-## 🌍 Sustainable Development Goals Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SDG%201-No%20Poverty-red" />
-  <img src="https://img.shields.io/badge/SDG%202-Zero%20Hunger-orange" />
-  <img src="https://img.shields.io/badge/SDG%203-Good%20Health-green" />
-  <img src="https://img.shields.io/badge/SDG%204-Quality%20Education-blue" />
-  <img src="https://img.shields.io/badge/SDG%205-Gender%20Equality-pink" />
-  <img src="https://img.shields.io/badge/SDG%206-Clean%20Water-teal" />
-  <img src="https://img.shields.io/badge/SDG%207-Affordable%20Energy-yellow" />
-  <img src="https://img.shields.io/badge/SDG%208-Decent%20Work-purple" />
-  <img src="https://img.shields.io/badge/SDG%209-Industry%20Innovation-darkblue" />
-  <img src="https://img.shields.io/badge/SDG%2010-Reduced%20Inequalities-grey" />
-  <img src="https://img.shields.io/badge/SDG%2011-Sustainable%20Cities-brown" />
-  <img src="https://img.shields.io/badge/SDG%2012-Responsible%20Consumption-lightgreen" />
-  <img src="https://img.shields.io/badge/SDG%2013-Climate%20Action-darkgreen" />
-  <img src="https://img.shields.io/badge/SDG%2016-Peace%20Justice-navy" />
-  <img src="https://img.shields.io/badge/SDG%2017-Partnerships-maroon" />
-</p>
-
+----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,22 +53,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusneld&theme=radical&hide_border=true" height="165" />
 </p>
-
-## 🎓 Education & Certifications Path
-
-**ALX Africa Programs:**
-- Full Stack Software Engineering (In Progress)
-- Data Science & Engineering (In Progress)
-
-
-## 🌟 Learning Goals 2026
-
-- [ ] Complete ALX Full Stack Software Engineering program
-- [ ] Complete ALX Data Science & Engineering program  
-- [ ] Build 5+ full-stack projects using Python and React or MERN
-- [ ] Master data engineering concepts and ETL pipelines
-- [ ] Contribute to open source projects
-- [ ] Build high-performance web applications
+---
 
 ## 📫 Connect With Me
 
