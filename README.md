@@ -7,6 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Tusneld)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:tusneldelainae@gmail.com)
 
+---
+
 ## 🎯 Currently Learning
 
 **ALX Data Science & Engineering**
@@ -42,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-----
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -53,6 +55,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusneld&theme=radical&hide_border=true" height="165" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
