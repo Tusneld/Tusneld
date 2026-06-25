@@ -30,6 +30,8 @@
   <!-- Full-Stack / Development -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -40,11 +42,13 @@
   <!-- Design & Productivity -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <!-- Visualization & Others -->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Microsoft Excel" alt="Microsoft Excel" width="40" height="40"/>&nbsp;-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Microsoft Excel" alt="Microsoft Excel" width="40" 
+  height="40"/>&nbsp;-->
 </div>
 
 ---
@@ -59,18 +63,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusneld&theme=radical&hide_border=true" height="165" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-**Email:** [tusneldelainae@gmail.com](mailto:tusneldelainae@gmail.com)
-
-**LinkedIn:** [Tusnelde Endjala](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
-
-**Twitter:** [@TusneldeE](https://x.com/TusneldeE)
-
-**GitHub:** [Tusneld](https://github.com/Tusneld)
 
 ---
 
