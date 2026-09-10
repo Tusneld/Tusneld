@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tusneld&theme=radical&hide_border=true&count_seconds=3600)*/
+![GitHub Streak](https://streak-stats.demolab.com?user=Tusneld&theme=radical&hide_border=true&count_seconds=3600)
 
 </div>
 
