@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusneld&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tusneld&theme=radical&hide_border=true&count_seconds=3600)*/
 
 </div>
 
