@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tusnelde 
 
-> ### Software Engineer | Data Analyst | Aspiring Data Scientist, ML & Data Engineer | Product Designer 
+> ### Software Engineer | Data Analyst | ML & Data Engineer | Product Designer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusnelde-endjala-a65302253/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/TusneldeE)
